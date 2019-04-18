@@ -26,6 +26,7 @@ from enum import Enum
 import random
 import math
 
+
 class OperationType(Enum):
         REPORT_ONLY = 1
         REDUCE = 2 
